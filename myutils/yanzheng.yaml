@@ -1,0 +1,6 @@
+val: "E:/ultralytics-main/trans/datasets/all"
+# Classes
+names:
+  0: car
+  1: truck
+  2: engineering_vehicle
